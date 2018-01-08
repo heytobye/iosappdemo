@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.hisense.otp</string>
+				<string>com.chelen.DynamicTokenCkey</string>
 				<key>bundle-version</key>
 				<string>1.1</string>
 				<key>kind</key>
